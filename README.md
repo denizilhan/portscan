@@ -1,6 +1,6 @@
 # OSINT port scanner 
 ## Features:
-        +Zero request from your machine to target\n
+        +Zero request from your machine to target
         +Possible to use as much thread as number of IP addresses
         +Threads splits IP addresses between them and scans at the same time
         +Can scan port ranges and single port
