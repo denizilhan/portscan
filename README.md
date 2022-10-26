@@ -1,5 +1,4 @@
-# portscan
-OSINT port scanner 
+# OSINT port scanner 
 
 Features:
 +Zero request from your machine to target 
