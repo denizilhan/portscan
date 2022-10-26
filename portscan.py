@@ -91,7 +91,6 @@ if len(sys.argv) > 3 :
 			break
 
 
-	#dosyaların üzerinde gezip tek dosyaya yazma
 	while whileChar==1:
 		if finishFlag == (int(sys.argv[2])):
 			for k in fileNames:
