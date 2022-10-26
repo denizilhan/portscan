@@ -94,8 +94,6 @@ if len(sys.argv) > 3 :
 	while whileChar==1:
 		if finishFlag == (int(sys.argv[2])):
 			for k in fileNames:
-				print("-----------")
-				print(str(k))
 				file = open(k,'r')
 				lines = file.readlines()
 				count=0
