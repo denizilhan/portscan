@@ -99,7 +99,7 @@ if len(sys.argv) > 3 :
 				count=0
 				for line in lines:
 					count += 1
-					finalFile.write(line.strip())
+					finalFile.write(line.strip()+"\n")
 				os.remove(k)
 			whileChar=0
 			break
