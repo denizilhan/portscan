@@ -9,3 +9,4 @@
 ## Usage:
         For single port:        python3 portscan.py <Subnet> <Thread Number> <Port>
         For multiple ports:     python3 portscan.py <Subnet> <Thread Number> <Starting Port> <End Port>
+test

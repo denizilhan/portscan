@@ -106,6 +106,6 @@ if len(sys.argv) > 3 :
 else:
 	print("Usage for single port: python3 portscan.py <IP Subnet> <Thread Number> <Port>")
 	print("Usage for port range: python3 portscan.py <IP Subnet> <Thread Number> <Starting Port> <End Port>")
-			
+sth			
 
 		
